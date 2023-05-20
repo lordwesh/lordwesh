@@ -1,4 +1,4 @@
-![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/Header-3.gif)
+![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Lordwesh</h1>
 <h3 align="center">A passionate and skillful developer</h3>
 <img align="right" alt="Coding" width="350" top-margin=50px src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
