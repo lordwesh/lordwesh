@@ -1,4 +1,4 @@
-![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
+![MasterHead](https://camo.githubusercontent.com/1016ebcc9d51c2d346cab65492618ea8588a3dc58938f13986d3b3e499a8208d/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30362f4865616465722d332e676966)
 <h1 align="center">Hi 👋, I'm Lordwesh</h1>
 <h3 align="center">A passionate and skillful developer</h3>
 <img align="right" alt="Coding" width="350" top-margin=50px src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
