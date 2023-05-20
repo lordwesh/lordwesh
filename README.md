@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Lordwesh</h1>
 <h3 align="center">A passionate and skillful developer</h3>
-<img align="right" alt="Coding" width="400" top-margin=50px src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="Coding" width="350" top-margin=50px src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordwesh&label=Profile%20views&color=0e75b6&style=flat" alt="lordwesh" /> </p>
 
